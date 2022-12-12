@@ -1,0 +1,6 @@
+go env
+go env GOPATH
+go env GOROOT
+
+GOROOT = Local que o Go foi instalado e que possui o compilador e as ferramentas
+GOPATH = Local onde vai ter os projetos
